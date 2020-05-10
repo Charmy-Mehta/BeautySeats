@@ -1,0 +1,13 @@
+//
+//  Production.xcconfig
+//  BeautySeats
+//
+//  Created by Charmy Mehta on 10/5/2563 BE.
+//  Copyright © 2563 Charmy Mehta. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+server_url      =   https:/$()/beautyseats.firebaseio.com
+auth_key        =   Z6TT4uGtThKWNNViR7Emti1Bz4SUaJpAVKVItpWC
